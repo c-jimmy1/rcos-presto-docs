@@ -96,7 +96,7 @@ That command will run just the presto-iceberg connector and skip running all the
 If you pass all these checks and builds then put your code up for PR!
 
 
-
+***
 
 #### CLA Compliance
 When you first do a PR, you will get an automated **linux-foundation-easycla** response. 
